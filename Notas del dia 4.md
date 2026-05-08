@@ -1,4 +1,4 @@
-Notas del dia 4 05/07/2026
+asdaNotas del dia 4 05/07/2026
 
 Host forwarding decision: La computadora manda mensajes a diferentes destinos como a si mismo o a otro device and el mismo network, tambien a otro device in a different network a travez del default gateway
 
